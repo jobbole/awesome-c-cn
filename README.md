@@ -560,7 +560,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 *   [mini-xml](http://www.msweet.org/projects.php?Z3) - 小型 XML 读写库。没有 C 标准库的依赖。[GNU LGPL2.1 with static linking exception](http://svn.msweet.org/mxml/trunk/COPYING)。
 *   
 
-<h2 id="resources-2">资源</h2>
+<h2 id="resources-2">其他资源</h2>
 
 <h3 id="influential-books">有影响力的书</h3>
 *具有广泛影响且值得阅读的 C 语言经典书籍。*
