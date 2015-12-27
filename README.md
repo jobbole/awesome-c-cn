@@ -86,7 +86,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
     *   [知名网站/博客](#websites-blogs)
     *   [微信公众号](#weibo-weixin)
 
-<h2 id="#build-systems">构建系统</h2>
+<h2 id="build-systems">构建系统</h2>
 
 下面是一些 C 项目的自动化构建和测试工具。
 
@@ -97,7 +97,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 *   [Libtool](https://gnu.org/software/libtool/) - 一个通用库支持脚本，是 Autotools 的一部分。[GNU GPL3](http://www.gnu.org/licenses/gpl.html) 或更高版本。
 *   [Meson](http://mesonbuild.com/) - 一个非常快，用户友好的构建系统，基于 Ninja。[Apache2.0](http://directory.fsf.org/wiki/License:Apache2.0).
 
-<h2 id="#compilers">编译器</h2>
+<h2 id="compilers">编译器</h2>
 
 *   [Clang](http://clang.llvm.org/) - 一个基于 LLVM 的 C 的编译器，支持 C11 标准。[NCSA](http://directory.fsf.org/wiki/License:IllinoisNCSA).
 *   [CompCert](https://github.com/AbsInt/CompCert) - 一个经过充分验证的 C 编译器。支持几乎所有的 C89 标准。[GNU GPL2.1](http://www.gnu.org/licenses/gpl.html) 或更高版本。
@@ -105,7 +105,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 *   [PCC](http://pcc.ludd.ltu.se/) - 一个值得尊敬的 C 编译器，支持 C99 标准。[Various licenses](http://pcc.ludd.ltu.se/licenses/)，完全免费。
 *   [TCC](http://bellard.org/tcc/) - 一个迷你，速度快的 C 编译器，支持 C99（除了复杂的类型）。 [GNU LGPL2.1](http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html)
 
-<h2 id="#crypto">加密</h2>
+<h2 id="crypto">加密</h2>
 
 *   [GnuTLS](http://www.gnutls.org/) - 一个安全通信库，实现了 SSL，TLS 和 DTLS。[GNU GPL2.1](http://www.gnu.org/licenses/gpl.html) 或更高版本。
 *   [libgcrypt](https://www.gnu.org/software/libgcrypt/) - 一个通用的密码库，支持多种加密方法。 [GNU LGPL2.1](http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html) （代码），[GNU GPL2.1](http://www.gnu.org/licenses/gpl.html) 或更高版本（说明书和工具）。
@@ -114,7 +114,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 *   [libtomcrypt](https://github.com/libtom/libtomcrypt) - 一个相当全面，模块化和可移植的工具集。公开领域。
 *   [mbed TLS](https://tls.mbed.org/) - 一个 C 实现的加密库。[Apache2.0](http://directory.fsf.org/wiki/License:Apache2.0)。
 
-<h2 id="#database">数据库</h2>
+<h2 id="database">数据库</h2>
 
 下面列出了基于 C API 的数据库和数据存储
 
@@ -130,14 +130,14 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 *   [SQLite](http://www.sqlite.org/) - 一个自包含，无服务器，零配置，支持事务的 SQL 数据库引擎，包括 C 接口。公开领域。
 *   [UnQLite](http://unqlite.org/) - 一个自包含，无服务器，零配置，支持事务的 NoSQL 数据库引擎，包括 C 接口。[FreeBSD](http://directory.fsf.org/wiki?title=License:FreeBSD "License:FreeBSD")。
 
-<h2 id="#documentation-generation">文档生成</h2>
+<h2 id="documentation-generation">文档生成</h2>
 
 *   [Cxref](http://www.gedanken.org.uk/software/cxref/) - 生成 C 程序的文档，支持 LaTeX，HTML， RTF 或者 SGML 的格式。[GNU GPL2.1](http://www.gnu.org/licenses/old-licenses/gpl-2.0.html)
 *   [DocOnce](https://hplgit.github.io/doconce/doc/web/index.html) - 一种朴素的标签标记语言，可以用来生成多种格式的文档。[3-clause BSD](http://directory.fsf.org/wiki/License:BSD_3Clause).
 *   [Doxygen](http://www.stack.nl/~dimitri/doxygen/index.html) - 一个事实上的标准工具，用于从注释的代码中生成 C 文档。能够生成多种格式的文档。[GNU GPL2.1](http://www.gnu.org/licenses/old-licenses/gpl-2.0.html)。
 *   [GTK-Doc](http://www.gtk.org/gtk-doc/) - 一个从注释的代码中生成 C 文档的工具，支持 Autotools [GNU GPL2.1](http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html)（代码）, [GNU FDL1.1](https://www.gnu.org/licenses/old-licenses/fdl-1.1.html)。
 
-<h2 id="#editors">编辑器</h2>
+<h2 id="editors">编辑器</h2>
 
 这些是特别精致，IDE 类型的编辑器。如果你想要一个程序员的文本编辑器，看别的地方。此外，不管你选择哪一款编辑器，它都支持 C。
 
@@ -148,14 +148,14 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 *   [Geany](http://www.geany.org/) - 一个很小很快的 IDE。 [GNU GPL2.1](http://www.gnu.org/licenses/old-licenses/gpl-2.0.html)及更高版本。
 *   [KDevelop](https://www.kdevelop.org/) - KDE IDE. [GNU GPL2.1](http://www.gnu.org/licenses/old-licenses/gpl-2.0.html)。
 
-<h2 id="#environments">环境</h2>
+<h2 id="environments">环境</h2>
 
 下面列出了被设计来引领 Windows 进入支持 C 的 21 世纪的技术。
 
 *   [Cygwin](https://cygwin.com/) - 被设计用于在 Windows 下模拟 POSIX 兼容环境。[Various licenses, all free](https://cygwin.com/licensing.html)。
 *   [MinGW-w64](http://mingw-w64.yaxm.org/doku.php/start) - 一个 Windows 下极简的 C 开发环境，支持 64 位。[Various licenses, all free](http://mingw.org/license)。
 
-<h2 id="#frameworks">框架</h2>
+<h2 id="frameworks">框架</h2>
 
 这一节包括提供数据结构的大型库和你所期待“现代”的标准库。
 
@@ -172,9 +172,9 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 *   [qlibc](https://github.com/wolkykim/qlibc) - 一个简单且强大的 C 库，当我们想要小且轻的库时，可作为 Glib 的替代品。[qLib license](https://github.com/wolkykim/qlibc/blob/master/LICENSE) (类似于 [FreeBSD](http://directory.fsf.org/wiki?title=License:FreeBSD "License:FreeBSD")).
 *   [stb](https://github.com/nothings/stb) - 一系列单文件 C 库。公共领域。
 
-<h2 id="#game-programming">游戏编程</h2>
+<h2 id="game-programming">游戏编程</h2>
 
-<h3 id="#engines">引擎</h3>
+<h3 id="engines">引擎</h3>
 
 这些作为 C 游戏编程代码的例子。
 
@@ -185,7 +185,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 *   [Quake2](https://github.com/id-Software/Quake-2) - Quake2 引擎。[GNU GPL2.1](http://www.gnu.org/licenses/old-licenses/gpl-2.0.html)。
 *   [Spearmint](https://github.com/zturtleman/spearmint) - 一个为 FPS 游戏设计的引擎。[GNU GPL3](http://www.gnu.org/licenses/gpl.html)及更高版本。
 
-<h3 id="#resources">资源</h3>
+<h3 id="resources">资源</h3>
 
 这些是筛选过的，对游戏编程有用的库。
 
@@ -199,11 +199,11 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 *   [SDL](https://www.libsdl.org/) - 一个跨平台库，通过 OpenGL 提供音频，键盘，鼠标，操纵杆和图形硬件的底层访问。[zlib](http://directory.fsf.org/wiki/License:Zlib)。
 *   [SDL2](https://www.libsdl.org/)- 一个跨平台库，通过 OpenGL 提供音频，键盘，鼠标，操纵杆和图形硬件的底层访问。这是最新版本。[zlib](http://directory.fsf.org/wiki/License:Zlib)。
 
-<h2 id="#generic-programming">通用编程</h2>
+<h2 id="generic-programming">通用编程</h2>
 
 *   [klib](https://github.com/attractivechaos/klib) - 小且轻量级的常用算法和数据结构实现。[Expat](http://directory.fsf.org/wiki/License:Expat)。
 
-<h2 id="#graphics">图形</h2>
+<h2 id="graphics">图形</h2>
 
 *   [Cairo](http://cairographics.org/) - 一个 2D 图像库。[GNU LGPL2.1](http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html) 或者 [MPLv1.1](https://directory.fsf.org/wiki/License:MPLv1.1)。
 *   [Cogl](https://github.com/rib/cogl-web/wiki) - 一个 GPU 图像和实用 API。[Expat](http://directory.fsf.org/wiki/License:Expat)（依赖使用 [3-clause BSD](http://directory.fsf.org/wiki/License:BSD_3Clause) 许可，库使用 [LGPLv2.1](http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html) 许可）。
@@ -217,7 +217,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 *   [mozjpeg](https://github.com/mozilla/mozjpeg) - 一个提升 JPEG 图像质量的编码器。[3-clause BSD](http://directory.fsf.org/wiki/License:BSD_3Clause)。
 *   [OpenGL](https://www.opengl.org/) - 一个高性能图像的工业标准，提供了原生 C语言 绑定。[Various licenses](http://www.sgi.com/tech/opengl/?/license.html)。
 
-<h2 id="#gui">GUI</h2>
+<h2 id="gui">GUI</h2>
 
 这些具体来说就是[控件工具包](http://en.wikipedia.org/wiki/Widget_toolkit)
 
@@ -226,7 +226,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 *   [Tk](http://www.tcl.tk/) - 一个基本控件工具包，Tcl/Tk 的一部分。[Tcl/Tk License](http://www.tcl.tk/software/tcltk/license.html)。
 *   [XForms Toolkit](http://xforms-toolkit.org/) - 一个为 XWindow 设计的控件工具包。[GNU LGPL2.1](http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html)。
 
-<h2 id="#json">JSON</h2>
+<h2 id="json">JSON</h2>
 
 *   [Jansson](http://www.digip.org/jansson/) - 一个编码，解码和处理 JSON 的 C 库。[Expat](http://directory.fsf.org/wiki/License:Expat)。
 *   [jsmn](http://zserge.com/jsmn.html) - 一个极简的 JSON 解析器。[Expat](http://directory.fsf.org/wiki/License:Expat)。
@@ -234,7 +234,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 *   [WJElement](https://github.com/netmail-open/wjelement/) - 高级 JSON 处理库，支持 JSON Schema。任意版本的 LGPL。
 *   [YAJL](https://lloyd.github.io/yajl/) - 一个很快的 JSON 流解析 C 库。[ISC](http://directory.fsf.org/wiki/License:ISC)。
 
-<h2 id="#learning-reference-and-tutorials">学习、参考和指南</h2>
+<h2 id="learning-reference-and-tutorials">学习、参考和指南</h2>
 
 下面列出了学习 C 编程的资源，或者跟 C 编程相关的有用的东西。
 
@@ -320,13 +320,13 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 *   [Expert C Programming: Deep C Secrets](http://dl.acm.org/citation.cfm?id=179241) - 一本从有趣，深度和娱乐的视角分析 C 内部结构的书籍。
 
-<h2 id="#multimedia">多媒体</h2>
+<h2 id="multimedia">多媒体</h2>
 
 *   [FFMPEG](https://www.ffmpeg.org/) - 一个完整，跨平台的录音，转换和流化视频以及音频的解决方案。[GNU LGPL2.1](http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html) 或更高版本，部分是 [GNU GPL2.1](http://www.gnu.org/licenses/old-licenses/gpl-2.0.html) 或更高版本。
 *   [GStreamer](http://gstreamer.freedesktop.org/) - 一个声音和可视化媒体的框架。[GNU LGPL2.1](http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html)。
 *   [lodepng](http://lodev.org/lodepng/) - 一个简单的 PNG 图像解码器和编码器，不需要其他依赖。[3-clause BSD](http://directory.fsf.org/wiki/License:BSD_3Clause).
 
-<h2 id="#networking-and-internet">网络编程</h2>
+<h2 id="networking-and-internet">网络编程</h2>
 
 *   [asnlc](http://lionet.info/asn1c/compiler.html) - 一个把 ASN.1 规范转换为 C 代码的编译器。[FreeBSD](http://directory.fsf.org/wiki?title=License:FreeBSD "License:FreeBSD")。
 *   [czmq](https://github.com/zeromq/czmq) - 一个 ZeroMQ 的高级绑定。
@@ -356,7 +356,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 *   [Tox](https://github.com/irungentoo/toxcore) - 一个通信平台，被设计为 Skype 杀手。[GNU GPL3](http://www.gnu.org/licenses/gpl.html)。
 *   [twitc](https://github.com/sinemetu1/twitc) - 一个与 Twitter OAuth API 交互的迷你 C 库。[Expat](http://directory.fsf.org/wiki/License:Expat)。
 
-<h3 id="#web-frameworks">Web框架</h3>
+<h3 id="web-frameworks">Web框架</h3>
 
 *   [balde](https://github.com/balde/balde) - 一个基于 GLib 的 C 微框架。 [GNU LGPLv2.1](http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html)。
 
@@ -381,7 +381,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 *   [SLEPc](http://slepc.upv.es/) - 一个在并行计算机中的解决大型，稀疏特征值问题的软件库。[GNU LGPL3](http://www.gnu.org/licenses/lgpl.html)
 *   [Yeppp!](http://www.yeppp.info/) - 非常快，SIMD 优化的数学库。 [3-clause BSD](http://directory.fsf.org/wiki/License:BSD_3Clause)。
 
-<h2 id="#parallel-programming">并行编程</h2>
+<h2 id="parallel-programming">并行编程</h2>
 
 *   [cchan](http://repo.hu/projects/cchan/) - 一个线程间通信通道构建的小型库。公共领域。
 *   [ck](https://github.com/concurrencykit/ck) - 并发原语，安全内存回收机制和非阻塞数据结构。[FreeBSD](http://directory.fsf.org/wiki?title=License:FreeBSD "License:FreeBSD")。
@@ -395,7 +395,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 *   [SLEPc](http://slepc.upv.es/) - 一个在并行计算机中的解决大型，稀疏特征值问题的软件库。[GNU LGPL3](http://www.gnu.org/licenses/lgpl.html)。
 *   [TinyCThread](https://tinycthread.github.io/) - 一个可扩展，小型的 C11 标准线程 API 实现。[zlib](http://directory.fsf.org/wiki/License:Zlib)。
 
-<h2 id="#regex">正则表达式</h2>
+<h2 id="regex">正则表达式</h2>
 
 > 有些人遇到问题时就会想：“啊，我知道了，我可以使用正则表达式”。于是现在他们有了两个问题。- Jamie Zawinski。
 
@@ -404,7 +404,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 *   [TRE](https://github.com/laurikari/tre/) - 一个与 POSIX 一致，充满特色的正则表达式库。[FreeBSD](http://directory.fsf.org/wiki?title=License:FreeBSD "License:FreeBSD")。
 *   PS：关于正则表达式，deerchao 有篇文章不错 《[正则表达式 30 分钟入门教程](http://blog.jobbole.com/96708/)》
 
-<h2 id="#serialization">序列化</h2>
+<h2 id="serialization">序列化</h2>
 
 *   [c-capnproto](https://github.com/jmckaskill/c-capnproto) - 一个 Cap'n Proto 序列化协议的实现。 [Expat](http://directory.fsf.org/wiki/License:Expat)。
 *   [cmp](https://github.com/camgunz/cmp) - 一个 [MessagePack](http://msgpack.org/) 序列化协议的实现。 [Expat](http://directory.fsf.org/wiki/License:Expat)。
@@ -413,7 +413,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 *   [protobuf-c](https://github.com/protobuf-c/protobuf-c) - 一个 Google Protocol Buffer 的 C 实现。[FreeBSD](http://directory.fsf.org/wiki?title=License:FreeBSD "License:FreeBSD")。
 *   [xdr](http://en.wikipedia.org/wiki/External_Data_Representation) - External Data Representation；数据序列化标准。标准（没有可用许可）。
 
-<h2 id="#source-code-collections">源码集锦</h2>
+<h2 id="source-code-collections">源码集锦</h2>
 
 下面包含了一些小型源码集合。如果你想要大型且成熟的，看《框架》那一节。
 
@@ -422,7 +422,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 *   [gnulib](https://www.gnu.org/software/gnulib/) - 通用 GNU 代码的集合。多种许可证，全部免费。
 *   [libdjb](http://www.fefe.de/djb/) - 做各种事情的库的集合。（显然）公共领域。
 
-<h2 id="#standard-libraries">标准库</h2>
+<h2 id="standard-libraries">标准库</h2>
 
 下面包括了标准 C 库。
 
@@ -431,7 +431,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 *   [glibc](http://www.gnu.org/software/libc/) - GNU C 库。一个 C 标准库的实现。 [GNU LGPL2.1](http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html)。
 *   [musl](http://www.musl-libc.org/) - 标准 C 库，兼容 POSIX 2008 和 C11，为静态链接设计。[Expat](http://directory.fsf.org/wiki/License:Expat)。
 
-<h2 id="#string-manipulation">字符串处理</h2>
+<h2 id="string-manipulation">字符串处理</h2>
 
 *   [bstrlib](http://bstring.sourceforge.net/) - 更好的字符串处理库。双重许可，[3-clause BSD](http://directory.fsf.org/wiki/License:BSD_3Clause) 或 [GNU GPL2.1](http://www.gnu.org/licenses/old-licenses/gpl-2.0.html)。
 *   [ICU](http://site.icu-project.org/) - International Components for Unicode；提供 Unicode 支持的库。 [ICU license](http://source.icu-project.org/repos/icu/icu/trunk/license.html)。
@@ -441,7 +441,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 *   [shoco](https://github.com/Ed-von-Schleck/shoco) - 一个小型文本压缩器。[Expat](http://directory.fsf.org/wiki/License:Expat)。
 *   [smaz](https://github.com/Ed-von-Schleck/shoco) - 一个高效的字符串压缩库。[3-clause BSD](http://directory.fsf.org/wiki/License:BSD_3Clause).
 
-<h2 id="#testing">测试工具</h2>
+<h2 id="testing">测试工具</h2>
 
 *   [CHEAT](https://github.com/Tuplanolla/cheat) - 一个非常简单的单元测试框架。[FreeBSD](http://directory.fsf.org/wiki?title=License:FreeBSD "License:FreeBSD")。
 *   [Check](http://check.sourceforge.net/) - 一个 C 的单元测试框架。[GNU LGPL2.1](http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html)。
@@ -452,7 +452,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 *   [minunit](https://github.com/siu/minunit) - 极小的 C 单元测试框架。[Expat](http://directory.fsf.org/wiki/License:Expat)。
 *   [Unity](https://github.com/ThrowTheSwitch/Unity) - 一个简单的 C 单元测试框架。 [Expat](http://directory.fsf.org/wiki/License:Expat)。
 
-<h2 id="#text-editor-extensions">文本编辑器扩展</h2>
+<h2 id="text-editor-extensions">文本编辑器扩展</h2>
 
 在几乎任何像样的文本编辑器支持 C 之际，有一些扩展，让编辑器更加令人愉快。下面是根据编辑器分目录的。
 
@@ -467,7 +467,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 *   [Syntastic](https://github.com/scrooloose/syntastic) - 语法检查和语言分析。[Do What The Fuck You Want To license](https://github.com/scrooloose/syntastic/blob/master/LICENCE)。
 *   [YouCompleteMe](http://valloric.github.io/YouCompleteMe/) - 一个 Vim 的代码补全引擎。[GNU GPL3](http://www.gnu.org/licenses/gpl.html)。
 
-<h2 id="#tools">工具</h2>
+<h2 id="tools">工具</h2>
 
 下面是实用的程序列表，包括了帮助你编写和调试 C 代码的库或者编译器，不包括编辑器。
 
@@ -498,7 +498,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 *   [unifdef](http://dotat.at/prog/unifdef/) - 移除 #ifdef 和 #if 指令包含的文本，不会改变文件的其他部分。[3-clause BSD](http://directory.fsf.org/wiki/License:BSD_3Clause) 和 [FreeBSD](http://directory.fsf.org/wiki?title=License:FreeBSD "License:FreeBSD")。
 *   [Valgrind](http://www.valgrind.org/) - 各种动态分析工具，包括一个内存泄漏检测工具。[GNU GPL2.1](http://www.gnu.org/licenses/old-licenses/gpl-2.0.html)。
 
-<h2 id="#utilities">其他工具</h2>
+<h2 id="utilities">其他工具</h2>
 
 下面是包罗万象的目录，主要是那些不适合放在其他目录的东西。
 
@@ -551,7 +551,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 *   [Viola](https://github.com/eatonphil/Viola) - libCello 的简化版本。[Expat](http://directory.fsf.org/wiki/License:Expat)。
 *   [zlib](https://github.com/madler/zlib) - 一个相当漂亮却精致不张扬的压缩库。[3-clause BSD](http://directory.fsf.org/wiki/License:BSD_3Clause)。
 
-## XML
+<h2 id="xml">XML</h2>
 
 > “XML 是垃圾。真的，没有任何借口。XML 对人类不友好的，甚至对于电脑来说也是一场灾难。根本就没有这个可怕的垃圾存在的理由” -Linus Torvalds
 
