@@ -93,7 +93,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 *   [aimake](http://nethack4.org/projects/aimake/) - 一个被设计来避免复杂配置的构建工具。[GNU GPL3](http://www.gnu.org/licenses/gpl.html) 或更高版本。
 *   [Autoconf](https://www.gnu.org/software/autoconf/) - 一个可扩展的 M4 宏指令包，提供命令行脚本来自动配置软件源码包，是 Autotools 的一部分。[GNU GPL3](http://www.gnu.org/licenses/gpl.html) 或更高版本。
 *   [Automake](https://www.gnu.org/software/automake/automake.html) - 一个自动生成符合 GNU 代码标准的 Makefile.in 文件的工具。需要与 Autoconf 配合使用，它也是 Autotools 的一部分。[GNU GPL3](http://www.gnu.org/licenses/gpl.html) 或更高版本。
-*   [Jam](http://www.perforce.com/resources/documentation/jam) - 一个构建系统，它被设计的比make更加易用。隐式地理解 C 的构建规则。[Jam License](https://en.wikipedia.org/wiki/Perforce_Jam#License)。
+*   [Jam](https://www.perforce.com/resources/documentation/jam) - 一个构建系统，它被设计的比make更加易用。隐式地理解 C 的构建规则。[Jam License](https://en.wikipedia.org/wiki/Perforce_Jam#License)。
 *   [Libtool](https://gnu.org/software/libtool/) - 一个通用库支持脚本，是 Autotools 的一部分。[GNU GPL3](http://www.gnu.org/licenses/gpl.html) 或更高版本。
 *   [Meson](http://mesonbuild.com/) - 一个非常快，用户友好的构建系统，基于 Ninja。[Apache2.0](http://directory.fsf.org/wiki/License:Apache2.0).
 
@@ -210,7 +210,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 *   [Clutter](https://blogs.gnome.org/clutter/get-it/) - 一个基于 OpenGL 的 UI 库。[GNU LGPL2.1](http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html)。
 *   [heman](https://github.com/prideout/heman) - 一个迷你图像实用工具库，处理高度图，法线图，距离场等。[Expat](http://directory.fsf.org/wiki/License:Expat)。
 *   [libcaca](https://github.com/cacalabs/libcaca) - 一个基于终端接口的 ASCII 渲染器。[WTFPLv2](http://www.wtfpl.net/txt/copying/)。
-*   [libimagequant](http://pngquant.org/lib/) - 小且轻量级的库，用于高质量的从 RGBA 图像到 8 位像素图的转换。[FreeBSD](http://directory.fsf.org/wiki?title=License:FreeBSD "License:FreeBSD")。
+*   [libimagequant](https://pngquant.org/lib/) - 小且轻量级的库，用于高质量的从 RGBA 图像到 8 位像素图的转换。[FreeBSD](http://directory.fsf.org/wiki?title=License:FreeBSD "License:FreeBSD")。
 *   [libjpeg-turbo](http://libjpeg-turbo.virtualgl.org/) - 一个更快的读写 JPEG 文件库。[Various licences](http://www.libjpeg-turbo.org/About/License)。
 *   [libpng](https://http://www.libpng.org/) - 官方 PNG 参考库。[libpng license](http://www.libpng.org/pub/png/src/libpng-LICENSE.txt)。
 *   [libxmi](https://gnu.org/software/libxmi/) - 一个光栅化 2D 位图的函数库。[GNU GPL3](http://www.gnu.org/licenses/gpl.html) 或更高版本。
@@ -219,7 +219,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 <h2 id="gui">GUI</h2>
 
-这些具体来说就是[控件工具包](http://en.wikipedia.org/wiki/Widget_toolkit)
+这些具体来说就是[控件工具包](https://en.wikipedia.org/wiki/Widget_toolkit)
 
 *   [GTK+](http://www.gtk.org/) - 一个跨平台的控件工具包。[GNU LGPL2.1](http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html)。
 *   [IUP](http://webserver2.tecgraf.puc-rio.br/iup/) - 另一个跨平台的控件工具包。[Expat](http://directory.fsf.org/wiki/License:Expat)。
@@ -285,7 +285,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 *   [一个快速教程：如何实现和调试 malloc，free，calloc，和 realloc](http://danluu.com/malloc-tutorial/)
 *   [位操作技巧](https://graphics.stanford.edu/~seander/bithacks.html)
 *   [我不懂 C](http://kukuruku.co/hub/programming/i-do-not-know-c)
-*   [在 C 语言中实现智能指针](http://snaipe.me/c/c-smart-pointers/)
+*   [在 C 语言中实现智能指针](https://snai.pe/c/c-smart-pointers/)
 *   [C 中的内联函数](http://www.greenend.org.uk/rjk/tech/inline.html)
 *   [C 中的自定义控制结构元编程](http://www.chiark.greenend.org.uk/~sgtatham/mp/)
 *   [用 C 的宏解决临时内存问题](http://www.samnip.ps/thought/macro-storage-for-inverse-comma)
@@ -334,7 +334,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 *   [GNU SASL](https://gnu.org/software/gsasl/) - 一个简单身份认证和安全层和一些常见 SASL 机制的实现。[GNU GPL3](http://www.gnu.org/licenses/gpl.html) 及更高版本。
 *   [GnuTLS](http://www.gnutls.org/) - 一个安全通信库，实现了 SSL，TLS 和 DTLS。[GNU LGPL2.1](http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html) 及更高版本。
 *   [gumbo-parser](https://github.com/google/gumbo-parser) - 一个 C99 标准的 HTML5 解析库。[Apache2.0](http://directory.fsf.org/wiki/License:Apache2.0)。
-*   [http-parser](https://github.com/joyent/http-parser) - 一个 HTTP 请求回应解析器。[Expat](http://directory.fsf.org/wiki/License:Expat)。
+*   [http-parser](https://github.com/nodejs/http-parser) - 一个 HTTP 请求回应解析器。[Expat](http://directory.fsf.org/wiki/License:Expat)。
 *   [ldns](http://www.nlnetlabs.nl/projects/ldns/index.html) - 一个简化 DNS 编程的库。[3-clause BSD](http://directory.fsf.org/wiki/License:BSD_3Clause)。
 *   [libcurl](http://curl.haxx.se/libcurl/) - 一个客户端的 URL 转换库，支持多种格式。[curl license](http://curl.haxx.se/docs/copyright.html)。
 *   [LibEtPan](https://github.com/dinhviethoa/libetpan) - 一个邮件库，支持 IMAP，SMTP，POP 和 NNTP 网络协议。[3-clause BSD](http://directory.fsf.org/wiki/License:BSD_3Clause)。
@@ -391,7 +391,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 *   [OpenMPI](https://github.com/open-mpi/ompi) - 一个消息传输接口实现。[3-clause BSD](http://directory.fsf.org/wiki/License:BSD_3Clause)。
 *   [PETSc](http://www.mcs.anl.gov/petsc/) - 一系列数据结构和例程，用于计算由偏微分方程建模的应用程序的可扩展并行解。[FreeBSD](http://directory.fsf.org/wiki?title=License:FreeBSD "License:FreeBSD")。
 *   [pth](https://gnu.org/software/pth/) - 一个非抢占式优先级调度多线程执行的可扩展实现。[GNU GPL3](http://www.gnu.org/licenses/gpl.html) 或者更高版本。
-*   [pthreads](http://en.wikipedia.org/wiki/POSIX_Threads) - POSIX 线程库。标准（没有适用的许可）。
+*   [pthreads](https://en.wikipedia.org/wiki/POSIX_Threads) - POSIX 线程库。标准（没有适用的许可）。
 *   [SLEPc](http://slepc.upv.es/) - 一个在并行计算机中的解决大型，稀疏特征值问题的软件库。[GNU LGPL3](http://www.gnu.org/licenses/lgpl.html)。
 *   [TinyCThread](https://tinycthread.github.io/) - 一个可扩展，小型的 C11 标准线程 API 实现。[zlib](http://directory.fsf.org/wiki/License:Zlib)。
 
@@ -411,7 +411,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 *   [libavro](http://avro.apache.org/docs/current/api/c/index.html#_introduction_to_avro_c) - 一个 Avro 数据序列化系统的 C 实现。[Apache2.0](http://directory.fsf.org/wiki/License:Apache2.0)。
 *   [mpack](https://github.com/ludocode/mpack) - 另一个 [MessagePack](http://msgpack.org/) 序列化协议的实现。[Expat](http://directory.fsf.org/wiki/License:Expat)。
 *   [protobuf-c](https://github.com/protobuf-c/protobuf-c) - 一个 Google Protocol Buffer 的 C 实现。[FreeBSD](http://directory.fsf.org/wiki?title=License:FreeBSD "License:FreeBSD")。
-*   [xdr](http://en.wikipedia.org/wiki/External_Data_Representation) - External Data Representation；数据序列化标准。标准（没有可用许可）。
+*   [xdr](https://en.wikipedia.org/wiki/External_Data_Representation) - External Data Representation；数据序列化标准。标准（没有可用许可）。
 
 <h2 id="source-code-collections">源码集锦</h2>
 
@@ -446,7 +446,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 *   [CHEAT](https://github.com/Tuplanolla/cheat) - 一个非常简单的单元测试框架。[FreeBSD](http://directory.fsf.org/wiki?title=License:FreeBSD "License:FreeBSD")。
 *   [Check](http://check.sourceforge.net/) - 一个 C 的单元测试框架。[GNU LGPL2.1](http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html)。
 *   [CMock](https://github.com/ThrowTheSwitch/CMock) - 一个 C 的 mock/stub 生成器。
-*   [cmocka](http://cmocka.org/) - 一个支持 mock 对象的单元测试框架。[Apache2.0](http://directory.fsf.org/wiki/License:Apache2.0)。
+*   [cmocka](https://cmocka.org/) - 一个支持 mock 对象的单元测试框架。[Apache2.0](http://directory.fsf.org/wiki/License:Apache2.0)。
 *   [Criterion](https://github.com/Snaipe/Criterion) - 一个 KISS 风格，非侵入式的 C 测试框架。 [Expat](http://directory.fsf.org/wiki/License:Expat)
 *   [CUnit](http://cunit.sourceforge.net/) - 另一个 C 的单元测试框架。[GNU LGPL2.0](http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html)。
 *   [minunit](https://github.com/siu/minunit) - 极小的 C 单元测试框架。[Expat](http://directory.fsf.org/wiki/License:Expat)。
@@ -479,7 +479,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 *   [c99sh](https://github.com/RhysU/c99sh) - 用 hash-bang 运行 C 文件。[FreeBSD](http://directory.fsf.org/wiki?title=License:FreeBSD "License:FreeBSD")。
 *   [CBMC](http://www.cprover.org/cbmc/) - C Bounded Model Checker；一个检查数组边界，指针安全和用户自定义断言的工具。[Original BSD](https://directory.fsf.org/wiki/License:BSD_4Clause)。
 *   [cdecl](https://github.com/mpv-player/mpv) - 一个在线服务，能够把 C 的声明翻译成英文，反向也可以。公共领域。
-*   [cinclude2dot](http://www.flourish.org/cinclude2dot/) - 在 C 项目中使用 Graphviz 的图像包含依赖。任意的 GNU GPL 版本（根据文件中的要求）
+*   [cinclude2dot](https://www.flourish.org/cinclude2dot/) - 在 C 项目中使用 Graphviz 的图像包含依赖。任意的 GNU GPL 版本（根据文件中的要求）
 *   [Complexity](https://www.gnu.org/software/complexity/) - 一个测量 C 代码复杂性的工具。[GNU GPL3](http://www.gnu.org/licenses/gpl.html) 或更高版本。
 *   [DDD](https://www.gnu.org/software/ddd/ddd.html) - 各种命令行调试器的图形前端。[GNU GPL3](http://www.gnu.org/licenses/gpl.html) 或更高版本。
 *   [fab](http://fabutil.org/) - 让每次构建都最优的构建系统。[GNU GPL3](http://www.gnu.org/licenses/gpl.html)。
