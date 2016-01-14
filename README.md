@@ -30,7 +30,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 ### 本项目的参与者
 
 - 维护者：
-- 贡献者：[Yonah潇](http://www.jobbole.com/members/Yonah/)
+- 贡献者：[Yonah潇](http://www.jobbole.com/members/Yonah/)、[骷髅](http://www.jobbole.com/members/lighter_cd/)
 
 注：名单不分排名，不定期补充更新
 
@@ -171,6 +171,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 *   [PBL](http://www.mission-base.com/peter/source/) - 一个包括实用函数，特色数据结构等的大型库。[GNU LGPL2.1](http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html)及更高版本（库），[GNU GPL2.1](http://www.gnu.org/licenses/old-licenses/gpl-2.0.html)及更高版本（测试代码）。
 *   [qlibc](https://github.com/wolkykim/qlibc) - 一个简单且强大的 C 库，当我们想要小且轻的库时，可作为 Glib 的替代品。[qLib license](https://github.com/wolkykim/qlibc/blob/master/LICENSE) (类似于 [FreeBSD](http://directory.fsf.org/wiki?title=License:FreeBSD "License:FreeBSD")).
 *   [stb](https://github.com/nothings/stb) - 一系列单文件 C 库。公共领域。
+*   [libcstl](http://hao.jobbole.com/libcstl/)：标准C语言通用数据结构和常用算法库。[官网](http://libcstl.org/)
 
 <h2 id="game-programming">游戏编程</h2>
 
@@ -178,7 +179,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 这些作为 C 游戏编程代码的例子。
 
-*   [Corange](https://github.com/orangeduck/Corange) - 一个纯 C 的游戏引擎。[FreeBSD](http://directory.fsf.org/wiki?title=License:FreeBSD "License:FreeBSD")。
+*   [Corange](http://hao.jobbole.com/corange/)：一个纯 C 的游戏引擎。[FreeBSD](http://directory.fsf.org/wiki?title=License:FreeBSD "License:FreeBSD")。[官网](https://github.com/orangeduck/Corange)
 *   [Darkplaces](https://icculus.org/twilight/darkplaces/) - 一个 Quake2 引擎的修改版本。[GNU GPL2.1](http://www.gnu.org/licenses/old-licenses/gpl-2.0.html)。
 *   [ioquake3](https://github.com/ioquake/ioq3) - Quake3 引擎，终于免费啦。[GNU GPL2.1](http://www.gnu.org/licenses/old-licenses/gpl-2.0.html)。
 *   [Orx](https://bitbucket.org/orx/orx) - 一个便携，轻量级，插件化，数据驱动，面向 2D 的游戏引擎。[zlib](http://directory.fsf.org/wiki/License:Zlib)。
