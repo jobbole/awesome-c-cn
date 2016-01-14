@@ -179,7 +179,8 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 这些作为 C 游戏编程代码的例子。
 
-*   [Corange](http://hao.jobbole.com/corange/)：一个纯 C 的游戏引擎。[FreeBSD](http://directory.fsf.org/wiki?title=License:FreeBSD "License:FreeBSD")。[官网](https://github.com/orangeduck/Corange)
+*   [Corange](http://hao.jobbole.com/corange/)：一个纯 C 的游戏引擎。[官网](https://github.com/orangeduck/Corange)
+*   [FreeBSD](http://directory.fsf.org/wiki?title=License:FreeBSD "License:FreeBSD")。
 *   [Darkplaces](https://icculus.org/twilight/darkplaces/) - 一个 Quake2 引擎的修改版本。[GNU GPL2.1](http://www.gnu.org/licenses/old-licenses/gpl-2.0.html)。
 *   [ioquake3](https://github.com/ioquake/ioq3) - Quake3 引擎，终于免费啦。[GNU GPL2.1](http://www.gnu.org/licenses/old-licenses/gpl-2.0.html)。
 *   [Orx](https://bitbucket.org/orx/orx) - 一个便携，轻量级，插件化，数据驱动，面向 2D 的游戏引擎。[zlib](http://directory.fsf.org/wiki/License:Zlib)。
