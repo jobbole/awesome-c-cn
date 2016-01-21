@@ -293,6 +293,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 *   [用 C 的宏解决临时内存问题](http://www.samnip.ps/thought/macro-storage-for-inverse-comma)
 *   [C 语言中一些不为人知的角落](https://docs.google.com/presentation/d/1h49gY3TSiayLMXYmRMaAEMl05FaJ-Z6jDOWOz3EsqqQ/edit?pli=1#slide=id.gaf50702c_0153)
 *   [编写高效的 C 和 C 代码优化](http://www.codeproject.com/Articles/6154/Writing-Efficient-C-and-C-Code-Optimization)
+*   [C语言编程透视](http://www.tinylab.org/open-c-book)
 
 #### 自学教程
 
