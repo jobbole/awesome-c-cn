@@ -557,9 +557,9 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 > “XML 是垃圾。真的，没有任何借口。XML 对人类不友好的，甚至对于电脑来说也是一场灾难。根本就没有这个可怕的垃圾存在的理由” -Linus Torvalds
 
-*   [Expat](http://www.libexpat.org/) - 面向流的 XML 解析器。[Expat](http://directory.fsf.org/wiki/License:Expat)。
+*   [Expat](http://hao.jobbole.com/expat/)：面向流的 XML 解析器。[Expat](http://directory.fsf.org/wiki/License:Expat)。[官网](http://www.libexpat.org/)
 *   [libxml2](http://xmlsoft.org/) - 一个符合标准，轻量级的 XML 解析器。[Expat](http://directory.fsf.org/wiki/License:Expat)。
-*   [mini-xml](http://www.msweet.org/projects.php?Z3) - 小型 XML 读写库。没有 C 标准库的依赖。[GNU LGPL2.1 with static linking exception](http://svn.msweet.org/mxml/trunk/COPYING)。
+*   [mini-xml](http://hao.jobbole.com/mini-xml/)：小型 XML 读写库。没有 C 标准库的依赖。[GNU LGPL2.1 with static linking exception](http://svn.msweet.org/mxml/trunk/COPYING)。[官网](http://www.msweet.org/projects.php?Z3)
 *   
 
 <h2 id="resources-2">其他资源</h2>
