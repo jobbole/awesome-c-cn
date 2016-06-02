@@ -43,7 +43,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 ### 本项目的参与者
 
 - 维护者：
-- 贡献者：[Yonah潇](http://www.jobbole.com/members/Yonah/)、[骷髅](http://www.jobbole.com/members/lighter_cd/)
+- 贡献者：[Yonah潇](http://www.jobbole.com/members/Yonah/)、[骷髅](http://www.jobbole.com/members/lighter_cd/)、[贺贺](http://www.jobbole.com/members/jianghehe/)
 
 注：名单不分排名，不定期补充更新
 
@@ -504,7 +504,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 *   CBMC：C Bounded Model Checker；一个检查数组边界，指针安全和用户自定义断言的工具。[Original BSD](https://directory.fsf.org/wiki/License:BSD_4Clause)。[官网](http://www.cprover.org/cbmc/)
 *   cdecl：一个在线服务，能够把 C 的声明翻译成英文，反向也可以。公共领域。[官网](https://github.com/mpv-player/mpv)
 *   cinclude2dot：在 C 项目中使用 Graphviz 的图像包含依赖。任官网 GNU GPL 版本（根据文件中的要求）[官网](https://www.flourish.org/cinclude2dot/)
-*   Complexity：一个测量 C 代码复杂性的工具。[GNU GPL3](http://www.gnu.org/licenses/gpl.html) 或更高版本。[官网](https://www.gnu.org/software/complexity/)
+*   [Complexity](http://hao.jobbole.com/complexity/)：一个测量 C 代码复杂性的工具。[GNU GPL3](http://www.gnu.org/licenses/gpl.html) 或更高版本。[官网](https://www.gnu.org/software/complexity/)
 *   DDD：各种命令行调试器的图形前端。[GNU GPL3](http://www.gnu.org/licenses/gpl.html) 或更高版本。[官网](https://www.gnu.org/software/ddd/ddd.html)
 *   fab：让每次构建都最优的构建系统。[GNU GPL3](http://www.gnu.org/licenses/gpl.html)。[官网](http://fabutil.org/)
 *   GDB：The GNU Project debugger；一个 C 调试器。[GNU GPL3](http://www.gnu.org/licenses/gpl.html) 或更高版本。[官网](http://www.gnu.org/software/gdb/)
