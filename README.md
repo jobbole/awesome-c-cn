@@ -43,7 +43,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 ### 本项目的参与者
 
 - 维护者：
-- 贡献者：[Yonah潇](http://www.jobbole.com/members/Yonah/)、[骷髅](http://www.jobbole.com/members/lighter_cd/)、[贺贺](http://www.jobbole.com/members/jianghehe/)
+- 贡献者：[Yonah潇](http://www.jobbole.com/members/Yonah/)、[骷髅](http://www.jobbole.com/members/lighter_cd/)、[贺贺](http://www.jobbole.com/members/jianghehe/)、[beyondwu](http://www.jobbole.com/members/beyondwu/)
 
 注：名单不分排名，不定期补充更新
 
@@ -489,7 +489,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 ### Vim
 
 *   Syntastic：语法检查和语言分析。[Do What The Fuck You Want To license](https://github.com/scrooloose/syntastic/blob/master/LICENCE)。[官网](https://github.com/scrooloose/syntastic)
-*   YouCompleteMe：一个 Vim 的代码补全引擎。[GNU GPL3](http://www.gnu.org/licenses/gpl.html)。[官网](http://valloric.github.io/YouCompleteMe/)
+*   [YouCompleteMe](http://hao.jobbole.com/youcompleteme/)：一个 Vim 的代码补全引擎。[GNU GPL3](http://www.gnu.org/licenses/gpl.html)。[官网](http://valloric.github.io/YouCompleteMe/)
 
 <h2 id="tools">工具</h2>
 
