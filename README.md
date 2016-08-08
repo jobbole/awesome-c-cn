@@ -42,7 +42,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 ### 本项目的参与者
 
 - 维护者：
-- 贡献者：[Yonah潇](http://www.jobbole.com/members/Yonah/)、[骷髅](http://www.jobbole.com/members/lighter_cd/)、[贺贺](http://www.jobbole.com/members/jianghehe/)、[beyondwu](http://www.jobbole.com/members/beyondwu/)
+- 贡献者：[Yonah潇](http://www.jobbole.com/members/Yonah/)、[骷髅](http://www.jobbole.com/members/lighter_cd/)、[贺贺](http://www.jobbole.com/members/jianghehe/)、[beyondwu](http://www.jobbole.com/members/beyondwu/)、[Huang Lin](https://github.com/MiterV1)
 
 注：名单不分排名，不定期补充更新
 
