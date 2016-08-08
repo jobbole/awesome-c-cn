@@ -1,5 +1,4 @@
-# C 语言资源大全中文版
-
+# C 语言资源大全中文版 
 我想很多程序员应该记得 GitHub 上有一个 Awesome：XXX 系列的资源整理。[awesome-c](https://notabug.org/koz.ross/awesome-c) 是 koz.ross 发起维护的 C 语言资源列表，内容包括了：构建系统、编译器、数据库、加密、初中高的教程/指南、书籍、库等等。
 
 Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的介绍，如果有更详细的中文介绍，对相应开发者的帮助会更大。这也是我们发起这个开源项目的初衷。
@@ -257,6 +256,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 *   json-c：一个处理 JSON 的库。[Expat](http://directory.fsf.org/wiki/License:Expat)。[官网](https://github.com/json-c/json-c/wiki)
 *   WJElement：高级 JSON 处理库，支持 JSON Schema。任意版本的 LGPL。[官网](https://github.com/netmail-open/wjelement/)
 *   YAJL：一个很快的 JSON 流解析 C 库。[ISC](http://directory.fsf.org/wiki/License:ISC)。[官网](https://lloyd.github.io/yajl/)
+*   cjson：一个处理 JSON 的库。[官网](https://github.com/json-c/json-c/wiki)
 
 <h2 id="learning-reference-and-tutorials">学习、参考和指南</h2>
 
