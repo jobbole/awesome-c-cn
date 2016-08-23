@@ -42,7 +42,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 ### 本项目的参与者
 
 - 维护者：
-- 贡献者：[Yonah潇](http://www.jobbole.com/members/Yonah/)、[骷髅](http://www.jobbole.com/members/lighter_cd/)、[贺贺](http://www.jobbole.com/members/jianghehe/)、[beyondwu](http://www.jobbole.com/members/beyondwu/)、[Huang Lin](https://github.com/MiterV1)
+- 贡献者：[Yonah潇](http://www.jobbole.com/members/Yonah/)、[骷髅](http://www.jobbole.com/members/lighter_cd/)、[贺贺](http://www.jobbole.com/members/jianghehe/)、[beyondwu](http://www.jobbole.com/members/beyondwu/)、[Huang Lin](https://github.com/MiterV1)、[Anloper](https://github.com/Anloper)
 
 注：名单不分排名，不定期补充更新
 
@@ -498,7 +498,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 *   adlint：一个静态分析器。支持完全的 C89 标准和部分 C99 标准。[GNU GPL3](http://www.gnu.org/licenses/gpl.html) 或更高版本。[官网](https://yanoh.github.io/adlint/)
 *   Artistic Style：一个支持 C 的小而快的自动化代码格式化工具。[GNU LGPL3](http://www.gnu.org/licenses/lgpl.html)。[官网](http://astyle.sourceforge.net/)
 *   address-sanitizer：一个很快的内存错误探测器。[Apache2.0](http://directory.fsf.org/wiki/License:Apache2.0)。[官网](https://github.com/google/sanitizers)
-*   biicode：一个现代的 C 依赖管理器。[Expat](http://directory.fsf.org/wiki/License:Expat)。[官网](https://biicode.github.io/biicode/)
+*   [biicode](http://hao.jobbole.com/biicode/)：一个现代的 C 依赖管理器。[Expat](http://directory.fsf.org/wiki/License:Expat)。[官网](https://biicode.github.io/biicode/)
 *   c：在命令行中编译和执行 C 脚本，也支持 shebang。 [Expat](http://directory.fsf.org/wiki/License:Expat)。[官网](https://github.com/ryanmjacobs/c)
 *   c99sh：用 hash-bang 运行 C 文件。[FreeBSD](http://directory.fsf.org/wiki?title=License:FreeBSD "License:FreeBSD")。[官网](https://github.com/RhysU/c99sh)
 *   CBMC：C Bounded Model Checker；一个检查数组边界，指针安全和用户自定义断言的工具。[Original BSD](https://directory.fsf.org/wiki/License:BSD_4Clause)。[官网](http://www.cprover.org/cbmc/)
