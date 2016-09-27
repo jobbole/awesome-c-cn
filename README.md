@@ -370,7 +370,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 *   libmicrohttpd：一个迷你库，可作为其他应用的一部分，让运行 HTTP 服务器变得简单。[GNU LGPL2.1](http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html) 或更高版本。[官网](https://gnu.org/software/libmicrohttpd/)
 *   libsoup：一个 GNOME HTTP 客户端/服务器库，使用了 GObject。[GNU LGPL2.1](http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html)。[官网](https://wiki.gnome.org/action/show/Projects/libsoup?action=show&redirect=LibSoup)
 *   lwan：一个实验性，可扩展，高性能的 HTTP 服务器。 [GNU GPL2.1](http://www.gnu.org/licenses/old-licenses/gpl-2.0.html)。[官网](https://github.com/lpereira/lwan)
-*   mongoose：基于 C 的嵌入式 Web 服务器。[GNU GPL2.1](http://www.gnu.org/licenses/old-licenses/gpl-2.0.html)。[官网](https://github.com/cesanta/mongoose)
+*   [mongoose](http://hao.jobbole.com/mongoose/)：基于 C 的嵌入式 Web 服务器。[GNU GPL2.1](http://www.gnu.org/licenses/old-licenses/gpl-2.0.html)。[官网](https://github.com/cesanta/mongoose)
 *   nanomsg：一个基于 C 的 ZeroMQ 实现。[Expat](http://directory.fsf.org/wiki/License:Expat)。[官网](https://github.com/nanomsg/nanomsg)
 *   onion：易于使用的 HTTP 服务器库。[Apache2.0](http://directory.fsf.org/wiki/License:Apache2.0)。[官网](https://github.com/davidmoreno/onion)
 *   OpenSSL：一个 SSL 和 TLS 协议的实现，还包括一个加密库。[Dual Licensed under the OpenSSL License and the SSLeay License](https://www.openssl.org/source/license.html)。[官网](https://www.openssl.org/)
