@@ -574,6 +574,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 *   uthash：哈希表实现，允许已经存在的数据结构很容易地存在哈希表里面。[1-clause BSD](http://troydhanson.github.io/uthash/license.html)。[官网](http://troydhanson.github.io/uthash/)
 *   Viola：libCello 的简化版本。[Expat](http://directory.fsf.org/wiki/License:Expat)。[官网](https://github.com/eatonphil/Viola)
 *   zlib：一个相当漂亮却精致不张扬的压缩库。[3-clause BSD](http://directory.fsf.org/wiki/License:BSD_3Clause)。[官网](https://github.com/madler/zlib)
+*   [Sundown](http://hao.jobbole.com/sundown/)：一个用C编写的符合标准的、快速的、安全的源码解析器。[官网](https://github.com/vmg/sundown)
 
 <h2 id="xml">XML</h2>
 
