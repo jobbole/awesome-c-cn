@@ -529,7 +529,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 *   ApeTagLibs：APEv2 标签的 C 库。[Expat](http://directory.fsf.org/wiki/License:Expat)。[官网](https://github.com/jeremyevans/ape_tag_libs/tree/master/c)
 *   bfd：处理二进制对象文件的库。GNU binutils 的一部分。[GNU GPL3](http://www.gnu.org/licenses/gpl.html) 或更高版本。[官网](http://sourceware.org/binutils/docs/bfd/)
 *   [ccv](http://hao.jobbole.com/ccv/)：基于C语言、带缓存机制的现代计算机视觉核心库。 [3-clause BSD](http://directory.fsf.org/wiki/License:BSD_3Clause)。[官网](https://github.com/liuliu/ccv)
-*   cf4ocl：The C Framework for OpenCL；一个跨平台面向对象框架，用于开发和用基准问题测试 [OpenCL](https://www.khronos.org/opencl/) 项目。[GNU LGPL3](http://www.gnu.org/licenses/lgpl.html)（库）, [GNU GPL3](http://www.gnu.org/licenses/gpl.html)（其他代码）。[官网](https://fakenmc.github.io/cf4ocl/)
+*   [cf4ocl](http://hao.jobbole.com/cf4ocl/)：The C Framework for OpenCL；一个跨平台面向对象框架，用于开发和用基准问题测试 [OpenCL](https://www.khronos.org/opencl/) 项目。[GNU LGPL3](http://www.gnu.org/licenses/lgpl.html)（库）, [GNU GPL3](http://www.gnu.org/licenses/gpl.html)（其他代码）。[官网](https://fakenmc.github.io/cf4ocl/)
 *   CommonMark：CommonMark 规范的 C 实现。[Variety of licenses, all free](https://github.com/jgm/CommonMark/blob/master/LICENSE)。[官网](https://github.com/jgm/CommonMark)
 *   CException：异常的 C 实现。[Expat](http://directory.fsf.org/wiki/License:Expat)。[官网](https://github.com/ThrowTheSwitch/CException)
 *   docopt.c：命令行选项解析器的 C 实现。[Expat](http://directory.fsf.org/wiki/License:Expat)。[官网](https://github.com/docopt/docopt.c)
