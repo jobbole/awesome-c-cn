@@ -239,6 +239,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 *   libxmi：一个光栅化 2D 位图的函数库。[GNU GPL3](http://www.gnu.org/licenses/gpl.html) 或更高版本。[官网](https://gnu.org/software/libxmi/)
 *   mozjpeg：一个提升 JPEG 图像质量的编码器。[3-clause BSD](http://directory.fsf.org/wiki/License:BSD_3Clause)。[官网](https://github.com/mozilla/mozjpeg)
 *   OpenGL：一个高性能图像的工业标准，提供了原生 C语言 绑定。[Various licenses](http://www.sgi.com/tech/opengl/?/license.html)。[官网](https://www.opengl.org/)
+*   [Craft](http://hao.jobbole.com/craft/)：一个利用OpenGL使用C编写的简单MineCraft的克隆。[官网](http://www.michaelfogleman.com/craft/)、[GitHub](https://github.com/fogleman/Craft)
 
 <h2 id="gui">GUI</h2>
 
