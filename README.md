@@ -169,7 +169,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 *   Eclipse：一个用 Java 写成的 IDE。 [EPL](http://directory.fsf.org/wiki/License:EPLv1.0)。[官网](http://www.eclipse.org/ide/)
 *   Geany：一个很小很快的 IDE。 [GNU GPL2.1](http://www.gnu.org/licenses/old-licenses/gpl-2.0.html)及更高版本。[官网](http://www.geany.org/)
 *   KDevelop：KDE IDE. [GNU GPL2.1](http://www.gnu.org/licenses/old-licenses/gpl-2.0.html)。[官网](https://www.kdevelop.org/)
-*   Qt Creator: [TrollTech](https://www.qt.io/)是为Qt框架开发的跨平台的集成开发环境，提供现代的UI和非常优秀的代码补全。[官网](https://www.qt.io/qt-features-libraries-apis-tools-and-ide/)
+*   Qt Creator: [TrollTech](https://www.qt.io/)为Qt框架开发的跨平台的集成开发环境，提供现代的UI和非常优秀的代码补全。[官网](https://www.qt.io/qt-features-libraries-apis-tools-and-ide/)
 <h2 id="environments">环境</h2>
 
 下面列出了被设计来引领 Windows 进入支持 C 的 21 世纪的技术。
