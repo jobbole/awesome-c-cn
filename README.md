@@ -8,8 +8,8 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 ### 我们要做什么？
 
 - 基于 awesome-c 列表，我们将对其中的各个资源项进行编译整理。此外还将从其他来源补充好资源。
-- 整理后的内容，将收录在[伯乐在线资源频道](http://hao.jobbole.com/)。可参考已整理的内容：
-  - 《[libPhenom：Facebook开源的高性能C语言并发编程框架](http://hao.jobbole.com/libphenom/)》
+- 整理后的内容，将收录在[伯乐在线资源频道](http://hao.importnew.com/)。可参考已整理的内容：
+  - 《[libPhenom：Facebook开源的高性能C语言并发编程框架](http://hao.importnew.com/libphenom/)》
 
 * * *
 
@@ -42,7 +42,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 ### 本项目的参与者
 
 - 维护者：
-- 贡献者：[Yonah潇](http://www.jobbole.com/members/Yonah/)、[骷髅](http://www.jobbole.com/members/lighter_cd/)、[贺贺](http://www.jobbole.com/members/jianghehe/)、[beyondwu](http://www.jobbole.com/members/beyondwu/)、[Huang Lin](https://github.com/MiterV1)、[Anloper](https://github.com/Anloper)、[冰斌](http://www.jobbole.com/members/libing1209/)
+- 贡献者：[Yonah潇](http://www.importnew.com/members/Yonah/)、[骷髅](http://www.importnew.com/members/lighter_cd/)、[贺贺](http://www.importnew.com/members/jianghehe/)、[beyondwu](http://www.importnew.com/members/beyondwu/)、[Huang Lin](https://github.com/MiterV1)、[Anloper](https://github.com/Anloper)、[冰斌](http://www.importnew.com/members/libing1209/)
 
 注：名单不分排名，不定期补充更新
 
@@ -54,7 +54,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 * 整理超过 20 个资源后，可在伯乐在线上开通打赏；
 * 每整理 20 个资源，有机会获得技术书籍或各种有意思的创意、极客产品；
-* [奖励详情](http://hao.jobbole.com/rewards/)
+* [奖励详情](http://hao.importnew.com/rewards/)
 
 * * * -->
 
@@ -193,7 +193,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 *   PBL：一个包括实用函数，特色数据结构等的大型库。[GNU LGPL2.1](http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html)及更高版本（库），[GNU GPL2.1](http://www.gnu.org/licenses/old-licenses/gpl-2.0.html)及更高版本（测试代码）。[官网](http://www.mission-base.com/peter/source/)
 *   qlibc：一个简单且强大的 C 库，当我们想要小且轻的库时，可作为 Glib 的替代品。[qLib license](https://github.com/wolkykim/qlibc/blob/master/LICENSE) (类似于 [FreeBSD](http://directory.fsf.org/wiki?title=License:FreeBSD "License:FreeBSD"))。[官网](https://github.com/wolkykim/qlibc)
 *   stb：一系列单文件 C 库。公共领域。[官网](https://github.com/nothings/stb)
-*   [libcstl](http://hao.jobbole.com/libcstl/)：标准C语言通用数据结构和常用算法库。[官网](http://libcstl.org/)
+*   [libcstl](http://hao.importnew.com/libcstl/)：标准C语言通用数据结构和常用算法库。[官网](http://libcstl.org/)
 
 <h2 id="game-programming">游戏编程</h2>
 
@@ -201,11 +201,11 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 这些作为 C 游戏编程代码的例子。
 
-*   [Corange](http://hao.jobbole.com/corange/)：一个纯 C 的游戏引擎。[FreeBSD](http://directory.fsf.org/wiki?title=License:FreeBSD "License:FreeBSD")。[官网](https://github.com/orangeduck/Corange)
+*   [Corange](http://hao.importnew.com/corange/)：一个纯 C 的游戏引擎。[FreeBSD](http://directory.fsf.org/wiki?title=License:FreeBSD "License:FreeBSD")。[官网](https://github.com/orangeduck/Corange)
 *   Darkplaces：一个 Quake2 引擎的修改版本。[GNU GPL2.1](http://www.gnu.org/licenses/old-licenses/gpl-2.0.html)。[官网](https://icculus.org/twilight/darkplaces/)
 *   ioquake3：Quake3 引擎，终于免费啦。[GNU GPL2.1](http://www.gnu.org/licenses/old-licenses/gpl-2.0.html)。[官网](https://github.com/ioquake/ioq3)
 *   Orx：一个便携，轻量级，插件化，数据驱动，面向 2D 的游戏引擎。[zlib](http://directory.fsf.org/wiki/License:Zlib)。[官网](https://bitbucket.org/orx/orx)
-*   [Quake2](http://hao.jobbole.com/quake2/)：Quake2 引擎。[GNU GPL2.1](http://www.gnu.org/licenses/old-licenses/gpl-2.0.html)。[官网](https://github.com/id-Software/Quake-2)
+*   [Quake2](http://hao.importnew.com/quake2/)：Quake2 引擎。[GNU GPL2.1](http://www.gnu.org/licenses/old-licenses/gpl-2.0.html)。[官网](https://github.com/id-Software/Quake-2)
 *   Spearmint：一个为 FPS 游戏设计的引擎。[GNU GPL3](http://www.gnu.org/licenses/gpl.html)及更高版本。[官网](https://github.com/zturtleman/spearmint)
 
 <h3 id="resources">资源</h3>
@@ -239,7 +239,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 *   libxmi：一个光栅化 2D 位图的函数库。[GNU GPL3](http://www.gnu.org/licenses/gpl.html) 或更高版本。[官网](https://gnu.org/software/libxmi/)
 *   mozjpeg：一个提升 JPEG 图像质量的编码器。[3-clause BSD](http://directory.fsf.org/wiki/License:BSD_3Clause)。[官网](https://github.com/mozilla/mozjpeg)
 *   OpenGL：一个高性能图像的工业标准，提供了原生 C语言 绑定。[Various licenses](http://www.sgi.com/tech/opengl/?/license.html)。[官网](https://www.opengl.org/)
-*   [Craft](http://hao.jobbole.com/craft/)：一个利用OpenGL使用C编写的简单MineCraft的克隆。[官网](http://www.michaelfogleman.com/craft/)、[GitHub](https://github.com/fogleman/Craft)
+*   [Craft](http://hao.importnew.com/craft/)：一个利用OpenGL使用C编写的简单MineCraft的克隆。[官网](http://www.michaelfogleman.com/craft/)、[GitHub](https://github.com/fogleman/Craft)
 
 <h2 id="gui">GUI</h2>
 
@@ -276,10 +276,10 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 #### 初级
 
 *   [指针教程](http://home.netcom.com/~tjensen/ptr/pointers.htm)
-*   [C 语言指针 5 分钟教程](http://blog.jobbole.com/25409/)
-*   [C 语言内存地址基础](http://blog.jobbole.com/44845/)
-*   [C 语言函数指针基础](http://blog.jobbole.com/44639/)
-*   [C 语言指针和数组基础](http://blog.jobbole.com/44863/)
+*   [C 语言指针 5 分钟教程](http://blog.importnew.com/25409/)
+*   [C 语言内存地址基础](http://blog.importnew.com/44845/)
+*   [C 语言函数指针基础](http://blog.importnew.com/44639/)
+*   [C 语言指针和数组基础](http://blog.importnew.com/44863/)
 *   [构建 C 项目](http://nethack4.org/blog/building-c.html)
 *   [C 编程百科全书](https://en.wikibooks.org/wiki/C_Programming)
 *   [“有趣”的 C 介绍](https://gist.github.com/eatonphil/21b3d6569f24ad164365)
@@ -299,7 +299,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 *   [memcpy 与 memmove 的比较](http://www.tedunangst.com/flak/post/memcpy-vs-memmove)
 *   [MPI 指南](https://computing.llnl.gov/tutorials/mpi/)
 *   [C 语言中一些未知特性或者技巧](http://proprogramming.org/some-unknown-features-or-tricks-in-c-language/)
-*   [失落的 C 语言结构体封装艺术](http://blog.jobbole.com/57822/)
+*   [失落的 C 语言结构体封装艺术](http://blog.importnew.com/57822/)
 *   [C 程序员需要了解的内存知识](http://marek.vavrusa.com/c/memory/2015/02/20/memory/)
 *   [每个 C 程序员需要知道的未定义行为知识](http://blog.llvm.org/2011/05/what-every-c-programmer-should-know.html)
 
@@ -363,14 +363,14 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 *   libcurl：一个客户端的 URL 转换库，支持多种格式。[curl license](http://curl.haxx.se/docs/copyright.html)。[官网](http://curl.haxx.se/libcurl/)
 *   LibEtPan：一个邮件库，支持 IMAP，SMTP，POP 和 NNTP 网络协议。[3-clause BSD](http://directory.fsf.org/wiki/License:BSD_3Clause)。[官网](https://github.com/dinhviethoa/libetpan)
 *   libev：一个事件驱动库。[FreeBSD](http://directory.fsf.org/wiki?title=License:FreeBSD "License:FreeBSD").[官网](http://software.schmorp.de/pkg/libev.html)
-*   [libevent](http://hao.jobbole.com/libevent/)：一个在网络服务器中事件驱动库的可替代品。[3-clause BSD](http://directory.fsf.org/wiki/License:BSD_3Clause)。[官网](http://libevent.org/)
+*   [libevent](http://hao.importnew.com/libevent/)：一个在网络服务器中事件驱动库的可替代品。[3-clause BSD](http://directory.fsf.org/wiki/License:BSD_3Clause)。[官网](http://libevent.org/)
 *   libgss：通用安全服务。[GNU GPL3](http://www.gnu.org/licenses/gpl.html) 或更高版本。[官网](https://gnu.org/software/gss/)
 *   libhttpd：一个给应用或嵌入式设备添加基本 Web 服务器功能的库。[GNU GPL2](http://www.gnu.org/licenses/gpl.html)。[官网](http://www.hughes.com.au/products/libhttpd/)
 *   libidn：Stringprep，Punycode 和 IDNA 规范的实现。[GNU GPL3](http://www.gnu.org/licenses/gpl.html) 或更高版本。[官网](https://gnu.org/software/libidn/)
 *   libmicrohttpd：一个迷你库，可作为其他应用的一部分，让运行 HTTP 服务器变得简单。[GNU LGPL2.1](http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html) 或更高版本。[官网](https://gnu.org/software/libmicrohttpd/)
 *   libsoup：一个 GNOME HTTP 客户端/服务器库，使用了 GObject。[GNU LGPL2.1](http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html)。[官网](https://wiki.gnome.org/action/show/Projects/libsoup?action=show&redirect=LibSoup)
 *   lwan：一个实验性，可扩展，高性能的 HTTP 服务器。 [GNU GPL2.1](http://www.gnu.org/licenses/old-licenses/gpl-2.0.html)。[官网](https://github.com/lpereira/lwan)
-*   [mongoose](http://hao.jobbole.com/mongoose/)：基于 C 的嵌入式 Web 服务器。[GNU GPL2.1](http://www.gnu.org/licenses/old-licenses/gpl-2.0.html)。[官网](https://github.com/cesanta/mongoose)
+*   [mongoose](http://hao.importnew.com/mongoose/)：基于 C 的嵌入式 Web 服务器。[GNU GPL2.1](http://www.gnu.org/licenses/old-licenses/gpl-2.0.html)。[官网](https://github.com/cesanta/mongoose)
 *   nanomsg：一个基于 C 的 ZeroMQ 实现。[Expat](http://directory.fsf.org/wiki/License:Expat)。[官网](https://github.com/nanomsg/nanomsg)
 *   onion：易于使用的 HTTP 服务器库。[Apache2.0](http://directory.fsf.org/wiki/License:Apache2.0)。[官网](https://github.com/davidmoreno/onion)
 *   OpenSSL：一个 SSL 和 TLS 协议的实现，还包括一个加密库。[Dual Licensed under the OpenSSL License and the SSLeay License](https://www.openssl.org/source/license.html)。[官网](https://www.openssl.org/)
@@ -426,7 +426,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 *   PCRE：与 Perl 5 正则表达式完全相同的实现。[3-clause BSD](http://directory.fsf.org/wiki/License:BSD_3Clause)。[官网](http://www.pcre.org/)
 *   SLRE：Super Light Regular Expression library;一个 Perl 正则表达式语法子集的迷你实现。[GNU GPL2.1](http://www.gnu.org/licenses/old-licenses/gpl-2.0.html)。[官网](https://github.com/cesanta/slre)
 *   TRE：一个与 POSIX 一致，充满特色的正则表达式库。[FreeBSD](http://directory.fsf.org/wiki?title=License:FreeBSD "License:FreeBSD")。[官网](https://github.com/laurikari/tre/)
-*   PS：关于正则表达式，deerchao 有篇文章不错 《[正则表达式 30 分钟入门教程](http://blog.jobbole.com/96708/)》
+*   PS：关于正则表达式，deerchao 有篇文章不错 《[正则表达式 30 分钟入门教程](http://blog.importnew.com/96708/)》
 
 <h2 id="serialization">序列化</h2>
 
@@ -489,7 +489,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 ### Vim
 
 *   Syntastic：语法检查和语言分析。[Do What The Fuck You Want To license](https://github.com/scrooloose/syntastic/blob/master/LICENCE)。[官网](https://github.com/scrooloose/syntastic)
-*   [YouCompleteMe](http://hao.jobbole.com/youcompleteme/)：一个 Vim 的代码补全引擎。[GNU GPL3](http://www.gnu.org/licenses/gpl.html)。[官网](http://valloric.github.io/YouCompleteMe/)
+*   [YouCompleteMe](http://hao.importnew.com/youcompleteme/)：一个 Vim 的代码补全引擎。[GNU GPL3](http://www.gnu.org/licenses/gpl.html)。[官网](http://valloric.github.io/YouCompleteMe/)
 
 <h2 id="tools">工具</h2>
 
@@ -498,13 +498,13 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 *   adlint：一个静态分析器。支持完全的 C89 标准和部分 C99 标准。[GNU GPL3](http://www.gnu.org/licenses/gpl.html) 或更高版本。[官网](https://yanoh.github.io/adlint/)
 *   Artistic Style：一个支持 C 的小而快的自动化代码格式化工具。[GNU LGPL3](http://www.gnu.org/licenses/lgpl.html)。[官网](http://astyle.sourceforge.net/)
 *   address-sanitizer：一个很快的内存错误探测器。[Apache2.0](http://directory.fsf.org/wiki/License:Apache2.0)。[官网](https://github.com/google/sanitizers)
-*   [biicode](http://hao.jobbole.com/biicode/)：一个现代的 C 依赖管理器。[Expat](http://directory.fsf.org/wiki/License:Expat)。[官网](https://biicode.github.io/biicode/)
+*   [biicode](http://hao.importnew.com/biicode/)：一个现代的 C 依赖管理器。[Expat](http://directory.fsf.org/wiki/License:Expat)。[官网](https://biicode.github.io/biicode/)
 *   c：在命令行中编译和执行 C 脚本，也支持 shebang。 [Expat](http://directory.fsf.org/wiki/License:Expat)。[官网](https://github.com/ryanmjacobs/c)
 *   c99sh：用 hash-bang 运行 C 文件。[FreeBSD](http://directory.fsf.org/wiki?title=License:FreeBSD "License:FreeBSD")。[官网](https://github.com/RhysU/c99sh)
 *   CBMC：C Bounded Model Checker；一个检查数组边界，指针安全和用户自定义断言的工具。[Original BSD](https://directory.fsf.org/wiki/License:BSD_4Clause)。[官网](http://www.cprover.org/cbmc/)
 *   cdecl：一个在线服务，能够把 C 的声明翻译成英文，反向也可以。公共领域。[官网](https://github.com/mpv-player/mpv)
 *   cinclude2dot：在 C 项目中使用 Graphviz 的图像包含依赖。任官网 GNU GPL 版本（根据文件中的要求）[官网](https://www.flourish.org/cinclude2dot/)
-*   [Complexity](http://hao.jobbole.com/complexity/)：一个测量 C 代码复杂性的工具。[GNU GPL3](http://www.gnu.org/licenses/gpl.html) 或更高版本。[官网](https://www.gnu.org/software/complexity/)
+*   [Complexity](http://hao.importnew.com/complexity/)：一个测量 C 代码复杂性的工具。[GNU GPL3](http://www.gnu.org/licenses/gpl.html) 或更高版本。[官网](https://www.gnu.org/software/complexity/)
 *   DDD：各种命令行调试器的图形前端。[GNU GPL3](http://www.gnu.org/licenses/gpl.html) 或更高版本。[官网](https://www.gnu.org/software/ddd/ddd.html)
 *   fab：让每次构建都最优的构建系统。[GNU GPL3](http://www.gnu.org/licenses/gpl.html)。[官网](http://fabutil.org/)
 *   GDB：The GNU Project debugger；一个 C 调试器。[GNU GPL3](http://www.gnu.org/licenses/gpl.html) 或更高版本。[官网](http://www.gnu.org/software/gdb/)
@@ -528,8 +528,8 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 *   ApeTagLibs：APEv2 标签的 C 库。[Expat](http://directory.fsf.org/wiki/License:Expat)。[官网](https://github.com/jeremyevans/ape_tag_libs/tree/master/c)
 *   bfd：处理二进制对象文件的库。GNU binutils 的一部分。[GNU GPL3](http://www.gnu.org/licenses/gpl.html) 或更高版本。[官网](http://sourceware.org/binutils/docs/bfd/)
-*   [ccv](http://hao.jobbole.com/ccv/)：基于C语言、带缓存机制的现代计算机视觉核心库。 [3-clause BSD](http://directory.fsf.org/wiki/License:BSD_3Clause)。[官网](https://github.com/liuliu/ccv)
-*   [cf4ocl](http://hao.jobbole.com/cf4ocl/)：The C Framework for OpenCL；一个跨平台面向对象框架，用于开发和用基准问题测试 [OpenCL](https://www.khronos.org/opencl/) 项目。[GNU LGPL3](http://www.gnu.org/licenses/lgpl.html)（库）, [GNU GPL3](http://www.gnu.org/licenses/gpl.html)（其他代码）。[官网](https://fakenmc.github.io/cf4ocl/)
+*   [ccv](http://hao.importnew.com/ccv/)：基于C语言、带缓存机制的现代计算机视觉核心库。 [3-clause BSD](http://directory.fsf.org/wiki/License:BSD_3Clause)。[官网](https://github.com/liuliu/ccv)
+*   [cf4ocl](http://hao.importnew.com/cf4ocl/)：The C Framework for OpenCL；一个跨平台面向对象框架，用于开发和用基准问题测试 [OpenCL](https://www.khronos.org/opencl/) 项目。[GNU LGPL3](http://www.gnu.org/licenses/lgpl.html)（库）, [GNU GPL3](http://www.gnu.org/licenses/gpl.html)（其他代码）。[官网](https://fakenmc.github.io/cf4ocl/)
 *   CommonMark：CommonMark 规范的 C 实现。[Variety of licenses, all free](https://github.com/jgm/CommonMark/blob/master/LICENSE)。[官网](https://github.com/jgm/CommonMark)
 *   CException：异常的 C 实现。[Expat](http://directory.fsf.org/wiki/License:Expat)。[官网](https://github.com/ThrowTheSwitch/CException)
 *   docopt.c：命令行选项解析器的 C 实现。[Expat](http://directory.fsf.org/wiki/License:Expat)。[官网](https://github.com/docopt/docopt.c)
@@ -558,7 +558,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 *   libimobiledevice：一个跨平台协议库，用于与 iThings 通信。[GNU LGPLv2.1](http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html) 或更高版本（库），[GNU GPL2.1](http://www.gnu.org/licenses/old-licenses/gpl-2.0.html) 或更高版本（工具）。[官网](https://github.com/libimobiledevice/libimobiledevice)
 *   libmpv：音乐播放库。编译的时候加入 `./waf configure --disable-cplayer --enable-libmpv-shared` 来避免生成音乐播放器。[GNU GPL2.1](http://www.gnu.org/licenses/old-licenses/gpl-2.0.html) 或更高版本。[官网](https://github.com/mpv-player/mpv)
 *   libnfc：一个平台独立的 NFC 库。[GNU LGPL3](http://www.gnu.org/licenses/lgpl.html)。[官网](https://github.com/nfc-tools/libnfc)
-*   [libPhenom](http://hao.jobbole.com/libphenom/)：事件框架，用于构建高扩展和高性能系统。[Apache2.0](http://directory.fsf.org/wiki/License:Apache2.0)。[官网](http://facebook.github.io/libphenom/index.html)、[GitHub](https://github.com/facebook/libphenom)
+*   [libPhenom](http://hao.importnew.com/libphenom/)：事件框架，用于构建高扩展和高性能系统。[Apache2.0](http://directory.fsf.org/wiki/License:Apache2.0)。[官网](http://facebook.github.io/libphenom/index.html)、[GitHub](https://github.com/facebook/libphenom)
 *   libsoundio：跨平台，实时音频输入输出的库，有很多种后端。[Expat](http://directory.fsf.org/wiki/License:Expat)。[官网](https://github.com/andrewrk/libsoundio)
 *   libucl：通用配置库解析器。[FreeBSD](http://directory.fsf.org/wiki?title=License:FreeBSD "License:FreeBSD")。[官网](https://github.com/vstakhov/libucl)
 *   libudp：一个统一设计模式的 C 实现。[GNU GPL3](http://www.gnu.org/licenses/gpl.html) 或更高版本。[官网](https://notabug.org/koz.ross/libudp)
@@ -574,15 +574,15 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 *   uthash：哈希表实现，允许已经存在的数据结构很容易地存在哈希表里面。[1-clause BSD](http://troydhanson.github.io/uthash/license.html)。[官网](http://troydhanson.github.io/uthash/)
 *   Viola：libCello 的简化版本。[Expat](http://directory.fsf.org/wiki/License:Expat)。[官网](https://github.com/eatonphil/Viola)
 *   zlib：一个相当漂亮却精致不张扬的压缩库。[3-clause BSD](http://directory.fsf.org/wiki/License:BSD_3Clause)。[官网](https://github.com/madler/zlib)
-*   [Sundown](http://hao.jobbole.com/sundown/)：一个用C编写的符合标准的、快速的、安全的源码解析器。[官网](https://github.com/vmg/sundown)
+*   [Sundown](http://hao.importnew.com/sundown/)：一个用C编写的符合标准的、快速的、安全的源码解析器。[官网](https://github.com/vmg/sundown)
 
 <h2 id="xml">XML</h2>
 
 > “XML 是垃圾。真的，没有任何借口。XML 对人类不友好的，甚至对于电脑来说也是一场灾难。根官网 -Linus Torvalds
 
-*   [Expat](http://hao.jobbole.com/expat/)：面向流的 XML 解析器。[Expat](http://directory.fsf.org/wiki/License:Expat)。[官网](http://www.libexpat.org/)
+*   [Expat](http://hao.importnew.com/expat/)：面向流的 XML 解析器。[Expat](http://directory.fsf.org/wiki/License:Expat)。[官网](http://www.libexpat.org/)
 *   libxml2：一个符合标准，轻量级的 XML 解析器。[Expat](http://directory.fsf.org/wiki/License:Expat)。[官网](http://xmlsoft.org/)
-*   [mini-xml](http://hao.jobbole.com/mini-xml/)：小型 XML 读写库。没有 C 标准库的依赖。[GNU LGPL2.1 with static linking exception](http://svn.msweet.org/mxml/trunk/COPYING)。[官网](http://www.msweet.org/projects.php?Z3)
+*   [mini-xml](http://hao.importnew.com/mini-xml/)：小型 XML 读写库。没有 C 标准库的依赖。[GNU LGPL2.1 with static linking exception](http://svn.msweet.org/mxml/trunk/COPYING)。[官网](http://www.msweet.org/projects.php?Z3)
 
 <h2 id="resources-2">其他资源</h2>
 
