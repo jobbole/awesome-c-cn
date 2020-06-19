@@ -169,6 +169,8 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 *   Eclipse：一个用 Java 写成的 IDE。 [EPL](http://directory.fsf.org/wiki/License:EPLv1.0)。[官网](http://www.eclipse.org/ide/)
 *   Geany：一个很小很快的 IDE。 [GNU GPL2.1](http://www.gnu.org/licenses/old-licenses/gpl-2.0.html)及更高版本。[官网](http://www.geany.org/)
 *   KDevelop：KDE IDE. [GNU GPL2.1](http://www.gnu.org/licenses/old-licenses/gpl-2.0.html)。[官网](https://www.kdevelop.org/)
+*   CLion：JetBrains 推出的 C/C++ 跨平台集成开发环境。[官网](https://www.jetbrains.com/clion/)
+
 
 <h2 id="environments">环境</h2>
 
