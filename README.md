@@ -184,7 +184,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 这一节包括提供数据结构的大型库和你所期待“现代”的标准库。
 
 *   APR：Apache Portable Runtime；另一个跨平台的实用函数库。[Apache2.0](http://directory.fsf.org/wiki/License:Apache2.0)。[官网](http://apr.apache.org/)
-*   C Algorithms：一个常用算法和数据结构的集合。[官网](https://github.com/fragglet/c-algorithms)
+*   C algorithms：一个常用算法和数据结构的集合。[官网](https://github.com/fragglet/c-algorithms)
 *   CPL：The Common Pipeline Library；一系列详尽，高效和强壮的软件工具包。[GNU GPL2.1](http://www.gnu.org/licenses/old-licenses/gpl-2.0.html)。[官网](http://www.eso.org/sci/software/cpl/)
 *   EFL：一个大型实用数据结构和函数的的集合。多种许可证，完全免费。[官网](https://www.enlightenment.org/p.php?p=about/efl)
 *   GLib：一个便携，高效和强大的实用函数和数据结构库。[GNU LGPL2.1](http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html)。[官网](https://wiki.gnome.org/Projects/GLib)
@@ -425,7 +425,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 > 有些人遇到问题时就会想：“啊，我知道了，我可以使用正则表达式”。于是现在他们有了两个问题。- Jamie Zawinski。
 
-*   PCRE：与 Perl 5 正则表达式完全相同的实现。[3-clause BSD](http://directory.fsf.org/wiki/License:BSD_3Clause)。[官网](http://www.pcre.org/)
+*   PCRE：与 PERL 5 正则表达式完全相同的实现。[3-clause BSD](http://directory.fsf.org/wiki/License:BSD_3Clause)。[官网](http://www.pcre.org/)
 *   SLRE：Super Light Regular Expression library;一个 Perl 正则表达式语法子集的迷你实现。[GNU GPL2.1](http://www.gnu.org/licenses/old-licenses/gpl-2.0.html)。[官网](https://github.com/cesanta/slre)
 *   TRE：一个与 POSIX 一致，充满特色的正则表达式库。[FreeBSD](http://directory.fsf.org/wiki?title=License:FreeBSD "License:FreeBSD")。[官网](https://github.com/laurikari/tre/)
 *   PS：关于正则表达式，deerchao 有篇文章不错 《[正则表达式 30 分钟入门教程](http://blog.importnew.com/96708/)》
