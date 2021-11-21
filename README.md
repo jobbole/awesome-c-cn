@@ -237,7 +237,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 *   libcaca：一个基于终端接口的 ASCII 渲染器。[WTFPLv2](http://www.wtfpl.net/txt/copying/)。[官网](https://github.com/cacalabs/libcaca)
 *   libimagequant：小且轻量级的库，用于高质量的从 RGBA 图像到 8 位像素图的转换。[FreeBSD](http://directory.fsf.org/wiki?title=License:FreeBSD "License:FreeBSD")。[官网](https://pngquant.org/lib/)
 *   libjpeg-turbo：一个更快的读写 JPEG 文件库。[Various licences](http://www.libjpeg-turbo.org/About/License)。[官网](http://libjpeg-turbo.virtualgl.org/)
-*   libpng：官方 PNG 参考库。[libpng license](http://www.libpng.org/pub/png/src/libpng-LICENSE.txt)。[官网](https://http://www.libpng.org/)
+*   libpng：官方 PNG 参考库。[libpng license](http://www.libpng.org/pub/png/src/libpng-LICENSE.txt)。[官网](http://www.libpng.org/)
 *   libxmi：一个光栅化 2D 位图的函数库。[GNU GPL3](http://www.gnu.org/licenses/gpl.html) 或更高版本。[官网](https://gnu.org/software/libxmi/)
 *   mozjpeg：一个提升 JPEG 图像质量的编码器。[3-clause BSD](http://directory.fsf.org/wiki/License:BSD_3Clause)。[官网](https://github.com/mozilla/mozjpeg)
 *   OpenGL：一个高性能图像的工业标准，提供了原生 C语言 绑定。[Various licenses](http://www.sgi.com/tech/opengl/?/license.html)。[官网](https://www.opengl.org/)
