@@ -590,8 +590,10 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 <h2 id="resources-2">其他资源</h2>
 
 <h3 id="influential-books">有影响力的书</h3>
-*具有广泛影响且值得阅读的 C 语言经典书籍。*
-* 待补充
+
+* 《The C Programming Language（C程序设计语言）》 —— Brian W. Kernighan & Dennis M. Ritchie .
+* 《C Primer Plus》 —— Stephen Prata .
+* 《Learn C the Hard Way（“笨方法”学C语言”）》 —— Zed A. shaw .
 
 <h3 id="websites-blogs">知名网站/博客</h3>
 *值得关注的 C 语言技术站点和博客。*
